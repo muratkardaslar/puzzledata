@@ -5,14 +5,15 @@
       "image": "animals",
       "count": 100,
       "desc": {
-        "en": "U2FsdGVkX1/avHgEOHP2lbydxtA3yJypC6VF79bZpQA=",
-        "tr": "U2FsdGVkX1+2hAyoBRmBF2xlU0i/8fa6zJ0R2s41Rfw="
+        "en": "U2FsdGVkX18kKF/nJoJ48F5T80cS7Aw7uhQQj38gPhY=",
+        "tr": "U2FsdGVkX1+5XLl3TwLToZz3XK62i1BiGAkDpsQsgvw="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
-      "published": true
+      "published": true,
+      "licensed": false
     }
   },
   {
@@ -21,14 +22,15 @@
       "image": "musicalinstruments",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX18QQzdHnfq7Eam6S/ZRnR6nqUJFj+CysvSSTDz2HvP0ypaw+e2zBsx+",
-        "tr": "U2FsdGVkX1+pQlJJ0tAtzARBiZB24INjFHn+bw+cA2ewBhhOnpQ5qTyZKgxsnnKB"
+        "en": "U2FsdGVkX18HCDPiVObsOX7syYDhRH9C/FFvHfBo52s0N07Q7g6A4oGmGPTdBiR3",
+        "tr": "U2FsdGVkX1+REO+FB0/VhYfCzu/Wp30NMjikPo0EjfoKMyNKaHtF5hqtunQWS/BB"
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
-      "published": true
+      "published": true,
+      "licensed": false
     }
   },
   {
@@ -37,14 +39,15 @@
       "image": "sports",
       "count": 50,
       "desc": {
-        "en": "U2FsdGVkX1+OHp/rSz8UL9BULEutIeNmZTXK/PRsgxg=",
-        "tr": "U2FsdGVkX18TIs+sD+Firzagpy9GPJ0gd/+cQQZscDk="
+        "en": "U2FsdGVkX18oie19Fyg+cXDBt039URnlnSVEFeUFcS4=",
+        "tr": "U2FsdGVkX18GAvBzdwGQzKcdPcuUOvRHBD0o6tIBqrU="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
-      "published": true
+      "published": true,
+      "licensed": true
     }
   },
   {
@@ -53,14 +56,15 @@
       "image": "vehicles",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX19acuSNvMzd0rFKowWX21S5EMhkk0TPdeI=",
-        "tr": "U2FsdGVkX1+01OykU0jqtj7tjzWqsAK4DJXb84WEM90="
+        "en": "U2FsdGVkX1979kgVcGq++TsI47K5MjQZzHPFUlcbU9M=",
+        "tr": "U2FsdGVkX1+UrZs+jnkM1Z+WqVm44GAQLibqXNs7FWc="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
-      "published": true
+      "published": true,
+      "licensed": true
     }
   }
 ]
