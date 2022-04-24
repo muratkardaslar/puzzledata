@@ -5,15 +5,15 @@
       "image": "animals",
       "count": 100,
       "desc": {
-        "en": "U2FsdGVkX18kKF/nJoJ48F5T80cS7Aw7uhQQj38gPhY=",
-        "tr": "U2FsdGVkX1+5XLl3TwLToZz3XK62i1BiGAkDpsQsgvw="
+        "en": "U2FsdGVkX18YPeiXi684NXRX0mZ3Ii7CyTT4FlyNHyI=",
+        "tr": "U2FsdGVkX1+KJ9gz9BFP68GgGBOSvxfL9E0HtsQi0/U="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
       "published": true,
-      "licensed": false
+      "licensed": true
     }
   },
   {
@@ -22,15 +22,15 @@
       "image": "musicalinstruments",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX18HCDPiVObsOX7syYDhRH9C/FFvHfBo52s0N07Q7g6A4oGmGPTdBiR3",
-        "tr": "U2FsdGVkX1+REO+FB0/VhYfCzu/Wp30NMjikPo0EjfoKMyNKaHtF5hqtunQWS/BB"
+        "en": "U2FsdGVkX18GPlDw2q24UYJDAGA7xzwFz6jqXjHkMMN1+2u99NaQ9IQMLOkA6vGL",
+        "tr": "U2FsdGVkX1/QNaAZ1/wdukaVVz+ySATfeeJehvBkrV4Tzg5nP/7AMltk2IYfWlZ+"
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
         "tr": "ABCÇDEFGĞHIİJKLMNOÖPRSŞTUÜVYZ"
       },
       "published": true,
-      "licensed": false
+      "licensed": true
     }
   },
   {
@@ -39,8 +39,8 @@
       "image": "sports",
       "count": 50,
       "desc": {
-        "en": "U2FsdGVkX18oie19Fyg+cXDBt039URnlnSVEFeUFcS4=",
-        "tr": "U2FsdGVkX18GAvBzdwGQzKcdPcuUOvRHBD0o6tIBqrU="
+        "en": "U2FsdGVkX1+XYEchqd+30i+GJ0eeeY1XQXiJYH+f+io=",
+        "tr": "U2FsdGVkX19ysgyYZ68BeZAlwDzzkCfGEnIKBAQHm1o="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -56,8 +56,8 @@
       "image": "vehicles",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX1979kgVcGq++TsI47K5MjQZzHPFUlcbU9M=",
-        "tr": "U2FsdGVkX1+UrZs+jnkM1Z+WqVm44GAQLibqXNs7FWc="
+        "en": "U2FsdGVkX18ktM5jbd0OXU/bLaX5+tU4YO1qh+y+6lg=",
+        "tr": "U2FsdGVkX18kZYja8rzLdp5kJ/n97TNes1dAYmILsD4="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
