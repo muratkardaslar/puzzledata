@@ -4,12 +4,12 @@
       "key": "001",
       "image": "001",
       "answer": {
-        "en": "U2FsdGVkX1/oklP3MIqRmVCgcgFWnlVJm+QPPxlklVo=",
-        "tr": "U2FsdGVkX18T+xeX7DnlntICvbMRo6Awfok3DJno00k="
+        "en": "U2FsdGVkX1/khFKBg/RWFnRGNqGFl5HMkz3cmiAqlTo=",
+        "tr": "U2FsdGVkX19oi7QfoHJ8llI3K8CwFH6PLNSrZYagL3c="
       },
       "description": {
-        "en": "U2FsdGVkX1/G4Q5ycfGCttOvbZ8i++2nNGVXKIQrTaWfB8L8x/xQUXRF/2xzk1E/lhkp96Li8dmEjNs2OyHXHDM4cduv0JhCbzXEz1nHEeRVspYJmH/qWPE+A8CNA/AbSkOtaJessssZTknLgtjw/1w5QNKTZBR5a+Gxc+QNCdo=",
-        "tr": "U2FsdGVkX1/nPwygFxHRAzpSUX6aG6hTQdMncSIBfIz/n5iEyGQzCHZDZsgnIcLWmIYQ9NkzotwIJB9NwshqV2aEW+46dyT5HoqgMy7s/1ZVXzvDtpOB+xauLx2mi7Oa3W8d5No0DuSmQKLrZCdu5eeyoA0lItj3o1GKv1LbtByKpyqC03G1JevJAol9akK/"
+        "en": "U2FsdGVkX1/eq3wsmBeTzedtneIouNiPkewoNX/yYtz169/g8c6KEq1onD/8GwQErsweS0LaFrj+qtoeJofXK6xCE8oS8lWYZKOLcTEVI2/hA+J/eTVtViXXfI+2Tr2kfLupiMl/Dm+uULMtsCiW0WGSK3gFfEawOkdxZbujUEc=",
+        "tr": "U2FsdGVkX19zaGRrZcLLHduwEaFcm36j6Hz2/884XWOeuHnrjW+uqtqvA7ppIpd/+n5ObfgUdFz4i8wrXdjPo+AWn3o20e9h3V01U37bgB6/0lcT6HipoeytJ37g4rdqBJ6GnU0Lfsd/akc7RmIraUCJv4jsV58vTL6hAVxs7pr3E21Ws8Wc8dwcp2q4QqDl"
       },
       "hiddenTiles": [
         0,
@@ -25,17 +25,395 @@
       "key": "002",
       "image": "002",
       "answer": {
-        "en": "U2FsdGVkX1/L6Xx3FW1vk6fDemr2gKLrVqyrcluL+/0=",
-        "tr": "U2FsdGVkX1+51szOVQB784RVHdbznHYH/8mw+xD+qYU="
+        "en": "U2FsdGVkX18Re9IPJS50owMD1JcxCE3J4LtQx0jRw3s=",
+        "tr": "U2FsdGVkX1807bABVUKyiSUX8ADNHa3BrDQaiUh3xOY="
       },
       "description": {
-        "en": "U2FsdGVkX1/USeBxjonMH6fhi22QlZO7OF7L2PLwjPc1s2pYbObvrJzHCA1du2NQz36z4Jy4H0Nj9avC0bvyF/6eZl4Dvcy7XK2y8IKTxKZTsJBP8Ah3frmFoYYHC2wdlfizDzQvHZrW1F2HNcp21v+tpG3xKhWPHH5Y914F0+AntcJc1zwh/ud4NqseQjN9Afr3JPPm9dEgiXg/bPCkkA==",
-        "tr": "U2FsdGVkX1+xWkXXOh0OCxKTdY6/xetkzmrliCTqac0l3OcuUM0rC90WkvJYFR8t+0kqvZZM44Bu/H7SGlb6AJlGcHGswmgL8nKF1PvqCMCXcC9MKX4rSebWdaGcNNt5Hym3nRy+MjvlJtzh8JWz/8ojFBSSyYMhDcvURzosyIo9StwGj7pNEAfsW0DvfjLzWSZI21Ui8+QXiwlWP4WiWjkVj1+OW5HeZVY8kaJpNg3Vl2WUf/WvLZQ+1tQhvrSdQJ9OwAGoAU1ExPu1nWK6sQ=="
+        "en": "U2FsdGVkX18f+0T8fU54b3eonzWh1oFRcidhzNh2S0EsJG1WQ+9pNnlXbd1XMYsdksehlLQ2OpAffh2EFFiBj/JasalnYyvuaD3pcR5Aiw5+u3zj1PI4C9JGuGCaHBIjgeBO39/X9Ofu4+FGGEL73gzqBXgUXfVyt7NiTRcwOYwlcrccOQQcXWwKXfaaA/68CGiFGQIKBsHohSIbQILBLQ==",
+        "tr": "U2FsdGVkX18m+6qI4OZLdgUTbqUPXeVkBWz5IuxKXaOiggLyc56q5R+m0bpLCIwFO8BpRdaTcsMNk/P6kEE+QGEFPoeFGsFjVvFTNUDaMxuNAgypLY14d+OEgeJnmb9pYDU3lN60lNauxIAFXyhn30PX30gedAM3jwXA4+aPwNZOmn8KZH8I3vVm3q5UppQOw8BYf+/LOuYCyNJI4OV6KNwuDAhKN2TF7wz5VHcFYPoWybAvENXfdR5qf+odpp8oDr0Civ+tpYunv8fvW1bHwA=="
       },
       "hiddenTiles": [
         0,
         2,
         3
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "003",
+      "image": "003",
+      "answer": {
+        "en": "U2FsdGVkX1+DAWqKJkbqi49n7D8TiHqu/TIH0AMxDco=",
+        "tr": "U2FsdGVkX19LHPfcCfzQyewy/EjS8BgR/MPyZFhNkog="
+      },
+      "description": {
+        "en": "U2FsdGVkX1+mL1vJInfhG1HL3WL39kUvhSPm3aom++2z4i2pxboxratN97pFNrZoCbGnwKNOaOm1Xr8G2rcXOjH63aDp7SDH6r55ekEqkOON++q2pi56WI0lQvb3CTQkE9X3Mc1FujgKr+TSyKNg5f0rKIBn3mqOyCcjBORC1otxt7+3uuvkROO3eyuaV3wzR+Iy1wJDE4n3wB2k5j7rmyixidMYhxGSdTaYZJUeMVU=",
+        "tr": "U2FsdGVkX18S7FktdPpoiJRnprsjlBXSr4aACpHrAFKKDa5KUsRq43zY6NgP7AwAYVwH4dSzPq8aQ0yB0hnyORieNlcItLkSkxHk/1Z5/lq6yAXMOqHaAStn9JCxSRjF5OMruXMc0ZrQ9MYdIChof28Y2C9Av/jID7abCQxRdf/CNhjGZd0HoCGL1ogcNmVRLyhRbPRrZecuPdW4pk9MzGonGoGw+UT3lQW/61zyrp0="
+      },
+      "hiddenTiles": [
+        1,
+        4,
+        5
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "004",
+      "image": "004",
+      "answer": {
+        "en": "U2FsdGVkX19TmUpr4XwJjBTCti02j8raDWQjhzQ2KlA=",
+        "tr": "U2FsdGVkX1/LggDyFVayf9itl8yNrQuj/sLzsVClVTc="
+      },
+      "description": {
+        "en": "U2FsdGVkX19VTMcX1pTlLWSFrD3AsasTUU4c+sdcNGk7H77RpI79TsyKcOCQi3TEtDm6GJDeTd1Dp4ROtb5T4N/fKdyqi4W/fLnorzdWcPZbKa94QHSRvBTWFE+3l0UXcQbgahGT6xOK2hgzmHDwTQ==",
+        "tr": "U2FsdGVkX18Dri0AC1x1vInDUngX9JUjJRCMRrbQyfu6BJgUQB+6Dk/qzijYXHgKKL5EgoMAZ5n36vrTmPQbjgtLPpT3AvsLacwBBK75MnAX160yBLeBav/ffysfdEZKeJODBT64yHhh770Jpu+if6ag9V1EEkTi210ittj2vGo="
+      },
+      "hiddenTiles": [
+        0,
+        3,
+        4
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "005",
+      "image": "005",
+      "answer": {
+        "en": "U2FsdGVkX188Mvpp11EhwJ7znLcdkxCb9KuDUv0RbTc=",
+        "tr": "U2FsdGVkX1/fo9JpxMp9mDwKt4/6mncNl1bdA8jlZCs="
+      },
+      "description": {
+        "en": "U2FsdGVkX19nHob4nZrwfL9o3YqslhTgbEP4IsZApd2nGjO2wLd4OFuevrp+X//pkiJrUGHk4+0IJyevlE+/TY2osqtmixxSERFsDFz1o6fLS3z/16qifktKQV3KwBPqPkLiTFhBJxIJYifLSpFHyc8pUqz2LPg6SUFQ3ErCFZ0OY8U72//rJJbdq7IERzGMosp5iuT1dAkw7oykRlvcmA==",
+        "tr": "U2FsdGVkX18eRZPJUbDFpHxkuaB5PRX7GvDoCJYLgTMwFLfitd1+Yj5nH27f4WU4FjnXGooQESUDsHj0V8vcGC9ZERWwGgLUF94UMzHcnfmHJhNOVuVvnBacJSVSsws5XyphUoiXhhW0w7G5mgb8GSZlQh06eLvJrIvMk/ndZZZwXOOouxzrXjJNP4WjrbJy1VXW0NrEdLK8uh75CoTcR/Pm0eyFQAslXAsLnWacb5s="
+      },
+      "hiddenTiles": [
+        1,
+        3,
+        4
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "006",
+      "image": "006",
+      "answer": {
+        "en": "U2FsdGVkX19N1DYEsT97WqC4PWqeY/AaHvBOusjFFuQ=",
+        "tr": "U2FsdGVkX1+A39z4g9sxZBhVb56iZPetJpmzktDuA64="
+      },
+      "description": {
+        "en": "U2FsdGVkX18tC2Rcmdt+bgBQHVdLJTjcWsV3GYjofcbeEOc1RiamKsEH3OHKJnSEInfeFsnY3qazfi01L0XqAKrdp0kJmslUqOwSFZ55CBcGoPGNLQSVn+owvHD/twBPc/6ddCXt/Rd+Tr6Mm1yi30F07rRDPA23TpVc2lXyQ0v2Gd06z07Ztkn7r/DKipoaqQj5qnR/y1q6MwMkOgsc3RJNxi2uxYL28zuCgK2icmN1XyHlbak/0XlPIlj18bnd/mJxqlJK2tCUTSJ+p9xgPA==",
+        "tr": "U2FsdGVkX1/MIYTxXMmMEv1taHF7CVyRdrq3ek1OjB22wz05UjW+uyPkASfhDF5clihFSBMsKOzf6YXe7gZUod/owMyQgRTAUM48iqLBF1KYUuVIqrzDNHGPvtq6w7H14CZx79RuR8iI8Eau3blAKK4/u6Vp+W7/zmOEf/j+Cm3qvgnjy0bcn3dssvWHpYkw+OdaC3UqtQ+b+KfQEBB/LAfCemtNWhpE2Wpt0zMNv5CBlRb0W0mLdYIQB2mvJOaTe/dAxE1BX2Dp1FVZrnROtzMj6fYIStv5SEOU0tX4slhN73pLB0jMWVBzanwRetFy"
+      },
+      "hiddenTiles": [
+        2,
+        3,
+        5
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "007",
+      "image": "007",
+      "answer": {
+        "en": "U2FsdGVkX19kQEnpOS7sA160hSQBDPkD5stSIb8qbC0=",
+        "tr": "U2FsdGVkX18w/r7bY9MO1GRiYGGXGlRqRUtognb9Jj4="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/tH7V8AkuDGbyLZMdhZC5s+SpTFoSVLx+8j8AvzBlFaZPb34Wq+BoY+L9w1VhAPFDAOqUUMBulzddyrq7+Ue5Er0k8dQErvqmAxOMRNhvTgoSvl0UdmH5Mai7s9YUnp1eg8oRXKrVFwA==",
+        "tr": "U2FsdGVkX19Kq1FL9FR/efXgk6Q2thJm8JAwZQy1HdZIkerCzjQtAve0uKXZNvce4uOIBifp8L/yGaEgUSTW8xrZGip7Y9K60LgU07wuGZOiy5QgR9oulFxSL0RBehVP"
+      },
+      "hiddenTiles": [
+        0,
+        1,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "008",
+      "image": "008",
+      "answer": {
+        "en": "U2FsdGVkX18QkXtcpwXKh41EOYUFL6eqtFzpavmktQU=",
+        "tr": "U2FsdGVkX19qnuu6cn8df6d3I0r2LoTo+4nHO8BACM8="
+      },
+      "description": {
+        "en": "U2FsdGVkX18n1Kh+rt119toIVRUsA7N3jjcaMkDaXpfdGdkV2poxaTg1viIg4D8gT/5sd5tkoxb0uJhy6TQYzzKM8XLg7SlC2Fp8pyDBqxRjDk4kBvaX69rpt1Jh5Z8r2oHDlifU3A/X/kPmAc6zo0TIVKqLeoeYbqvnpbND4xGdmGB+/plk/fO2gPk+xjqg",
+        "tr": "U2FsdGVkX1/EXgaaWI10ZL3kP1gT0RfKydDaDKEpNYcLwEfMpd1nMFnjexeTYe5PKeUAgGc10UBGi0Hncf8ERTGDmjaRnOrCLRNY3pEo20OtdOCcN3Y/1QOSbswIaeYrZ71LCx2n8mea8Zgkihq15g=="
+      },
+      "hiddenTiles": [
+        3,
+        4,
+        6
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "009",
+      "image": "009",
+      "answer": {
+        "en": "U2FsdGVkX18h/ue/hC108Djw0PNdDy0KZ0DmBBBs4yg=",
+        "tr": "U2FsdGVkX1+XBFplA7kAIRSJPGByV7STYde2BCt51Po="
+      },
+      "description": {
+        "en": "U2FsdGVkX1+1REpDBVepZ2EVHhMaFwmbQVKsP0pW/87GPt9Avaa5ZzjjF0vTbu8/3FE+vftRQRr2GAO+HVqSlm5FLL23v5+Q19UsLj8DJf0kZNp9HTvdcjWL512HPf8p3vD0EUtmnVAfGixznK0YWxx7F6zF5FXgX1u0nrCEDgktKmZHxpQdaekFg4gB6bDW",
+        "tr": "U2FsdGVkX18yJOcEUDVYztyzGUfsFYlIMCjyPe/Rxx9KF41AugZzF2QLqbzwOBYMCoBJQgN8YqmZTEjbSXI0oRAEB7Pb6atVKixTo6T04aLveaCqfPozivkIknTL0evgBY7rUyjth0udmzbQYwXE2fzn10kNJoirVXuD8dTjXnVVv7f4LlkiVZcLT9Gdeb+O"
+      },
+      "hiddenTiles": [
+        1,
+        2,
+        4
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "010",
+      "image": "010",
+      "answer": {
+        "en": "U2FsdGVkX1/YlEF1jSMgC7kqGJElLqSap5WWJ7EW3MQ=",
+        "tr": "U2FsdGVkX19wrjxKDA7J4yI37gtnVo6hWK1WwQkBj60="
+      },
+      "description": {
+        "en": "U2FsdGVkX18P+jDmx6sRiCoLY2CuqoV1a6rWpITHbQ7psiA3abvizuza5S0uhL+xJ8WcdiKdYsVyq5UFlDXQh3xcq2KTFS579/HPP5nZApNYQzhCJG36F4ZajqB2MuVV8WkeSmXRIGRQ+UlYcQGpu9i8Fwj5cXa795Hfh5w+MXktARrVZOEH82iL4cW7qnyc6xAy6JM6tvQL4tKBq6HQc1I8xemcvUNxuvOTcjj9OVo=",
+        "tr": "U2FsdGVkX1+3BCj+jUzD+ysb8yAqHaCz43ivVAe4vyUFzfY1LygCYbf3BwbHMj3Y1dLxGgKAg5Yf1smm53sX/LW/5Pdv2p/GOU73A3Qh8jdQ3FZvAn7S2dj/aMkq/bf/LRSENHx21Ib0LMJzNDPZpL2wh6jXpeNCstw8eD43GXoAYdot/N1LF0O+EoNV1xmlHAF50FcYqWmEitcMRHluWw=="
+      },
+      "hiddenTiles": [
+        2,
+        5,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "011",
+      "image": "011",
+      "answer": {
+        "en": "U2FsdGVkX1/zRgGSclwcGKosQQ1sGHw688wdecy/teY=",
+        "tr": "U2FsdGVkX1/AYI6CbCCFvCiIe8sFl5q7z2JMx+4YYlg="
+      },
+      "description": {
+        "en": "U2FsdGVkX18A9ZFZ6xZxD7m9/vZDPuWb8Qa1jK1Nfo2tyWh4UGuallv9w9alJc+eQNJVFYPvYOvfWXmVjM6jG5O9uVvLTCxp5tU90gKyHZUDOu+A3HTrPsImPj3dYQTc",
+        "tr": "U2FsdGVkX19n26MYEpifPGu86LFxXFgCWg3+ct/UePJwyXFY3kCq+hfos04lzWOV6iZUYuC77ZDksgfc0eK7pSjugoYT9Oj+5qdqsoov8Q2LWPnoCFKXsom/KOUy3JxR"
+      },
+      "hiddenTiles": [
+        0,
+        3,
+        6
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "012",
+      "image": "012",
+      "answer": {
+        "en": "U2FsdGVkX18RbIjIUGbApy81DzrlwNoimSlC/PklaSY=",
+        "tr": "U2FsdGVkX1+MrBebv+HMxpjArvcV5TB1pWe2/9uJZ2s="
+      },
+      "description": {
+        "en": "U2FsdGVkX1954USVdx9jYullqpyaqgScuDc7Ju0f+y5YufKdwsHT3Y8pQdTImV6Q8IdQPhMYkS6Qsl/4TKYYv0an2zjNpUxYcJ95jpQhzsiaLqmPkhHbbuWI1/3LY5gKgtfrGTxNM9f7vccAc1Mj1nSH53LOVdxD/eOsBTf6RlPFnpi3DiciS2ARN+kKoVUeA2KQHCOdLeaRC+UKsk/6wpxlITKBfrkDtf3s4NneTUA=",
+        "tr": "U2FsdGVkX1/zB2f7Km2PXM/4ALcZRFhXNb9FDZmKUQXWqJ30cQhNoqWnEtvHmqcIKO1ySnKVTXX60QTxpTAdcnPvopKmw0y34+yLO3S+vKfoRkE+ZNfrsnkOrBhmEyNqZiO7GanyXmOrw8fta706Wici1Fx2YM6XSwFMM8omIELUYdsOWMg+6dA1pUONBBKPvVm+NPK6b1FmITrcxyKFaVSwWuEXo7pNMdYeq1HZehc="
+      },
+      "hiddenTiles": [
+        2,
+        6,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "013",
+      "image": "013",
+      "answer": {
+        "en": "U2FsdGVkX191Cb1YaZLwbUJlD1HvwJeZgACxBO8OKf4=",
+        "tr": "U2FsdGVkX1+1oxFS8UEQWnuZ514uwTC+lblhWo2mQmI="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/pjR1aTzRUr/2dSu4tTcanDUkd6OklCy4t/mufiT0VQcEEN5i/fh6zMI3tzRmD8rmEF/NnVF3qMUsUIr3n9V6FsrV+Gok6DFlSqHdi2J4wFRpXU4Iy9Axx",
+        "tr": "U2FsdGVkX18K85VYVupOJlOQ0wfMAYz9SYM1u5S1eyqoVGR7/j/IbJ0deMKHjJmiBtGT3bjglkPbrriwo9TnUJWG1oE9O+luMO7T+AtV4sr1py2PGfxCQGXyEUU3bXDBPFOd5UkIAptlqOvYYxXuTw=="
+      },
+      "hiddenTiles": [
+        0,
+        1,
+        4
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "014",
+      "image": "014",
+      "answer": {
+        "en": "U2FsdGVkX1+VM8eS0A2QJxWRxDwhsxAwlW3cQV/HOXU=",
+        "tr": "U2FsdGVkX19HawoEYc2X7c6uTYtE4OmvP/CdEr3N7mg="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/rW62bktUuMO1lUdlm3p6QSN7p3SXOIorxVNOFq3oU+yY7utcxPZhoaDp3UM6/0lR5zDXt2LKpGoN5K0eki79MTH2CxUs+XdLS/qu9SdJHxsfhcuOXpi25N3n5xT0r/nIG6kkqung/heF/qMskl6lCNucrSHb68/BUBd0HKvFYzoNnVfwCxLkW7BFMUPBbmzZmU22z840wKmDHs2EL3YFPlgpuAWjhDXI=",
+        "tr": "U2FsdGVkX18rdDqluHtIA5EgDr6oDqq26jxGgnD/YX5UwAoRMaA5ip629h6y+aP1LxLyxZZq25CKiD3K+6NMHiEMYS7+biCFjbP6VD22kD4m0YUZPwaSkRAeqIxi8rojvyN7NRfo+dMVfIydDkz2DOHpk/4KzcmichYjoIdeTf6pXewOPRPN8S7fNxMqY/28bDO6cuKazFTvhqz/GGzWTg=="
+      },
+      "hiddenTiles": [
+        3,
+        6,
+        8
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "015",
+      "image": "015",
+      "answer": {
+        "en": "U2FsdGVkX1+8cFReD/cmF/0j5UqxXAzJ30fQuMjqyik=",
+        "tr": "U2FsdGVkX1+jFTohOt7fLMk+DIKDG78GKs6lr84XRF8="
+      },
+      "description": {
+        "en": "U2FsdGVkX18qXU9nBitCLfInKsaD5LVy8MLlEDz1/IPcE0OIXodQtY2lCMnxhpk6vFrZNmHybI1XvvGEbBwnUiUvg0J/CaV2aFWt5HxuLSWSDM/fnALyTdttEhSM8qKl50MBkJg7RBcgG8kJhEwtZs1BGs1S02NTRTmFgrxC7xEw93/pxm3g7TJZfjaUvwPwvFZEot1jNCyqL+ibe4Q1UdTF4OCBl8OVkdXPHfHPGZxDpRqP91qfwVURJZ/8R69e",
+        "tr": "U2FsdGVkX1//mlOnsz5uldvLwzz8HmREa1ByeBoY4d66Glz4TjwtjtUrW+GfXtuQgSfu3AUJVZgB40uAbUntonnd4NfIw3w9rg6Htr7CvYEfjWnnbJWF/V5OdDBz6vlqOFQcn4m0f36radkaqhObWiFXfQYbz7zMGbUfnazUday3r2btkhud2OAiIvqUhW2CwXMpP+WnUNfKoeFLN4RMQu/LL01p9ad6oIQwVzl0SnFoWr+GfPWWVWj+LQprw+/iUEDKmbD1CLc/FU24r5udpyDsThYv9ihgoKCW6jANFqI="
+      },
+      "hiddenTiles": [
+        3,
+        4,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "016",
+      "image": "016",
+      "answer": {
+        "en": "U2FsdGVkX18UkI6wVCaJ58ZpjVES23X0X0aHZuI+mic=",
+        "tr": "U2FsdGVkX1+IIx+Rm4TMj/R8iqrxfweyF4xVd8oL6+w="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/ijPXiGTS0wBc9xwyY9xc8K+X6j9zGyoSTQfrfHtfe3x9JIRvdD9gQ4+fmsxEA4FVz46XOfVUF6xC54oi+p+90iiuvO9yl96fgk2YTE/3ckkqfB8RlHiphYX/Wg5NO83I61qhm6lsq525jEd2pToT2u7ZQY/nomAM=",
+        "tr": "U2FsdGVkX1/Ic0pnbBk1esRlpFguN862Dcye+ouMUvW5E05aykHwDahDbBphPZCkkE3N2pwW+k1fAtiU92mPke0yDfAOWVv08Hp8tecLFlEzGrh8sITMeE8t0SwCHRmkstULNm/l2Y6UHzBqvthk1dKAi7UvgRzj76kj687S4hc="
+      },
+      "hiddenTiles": [
+        1,
+        4,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "017",
+      "image": "017",
+      "answer": {
+        "en": "U2FsdGVkX19qhY5lZ3/vTkXIuvPogq/CgRcq3661Bv4=",
+        "tr": "U2FsdGVkX18j+LxcttnN5NMSbuMb0q+7FueW23Yu1zM="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/sneTza7+YY2egaZAvY4Ki32jAIIaSlByBTsoPduAD/Uo6cxblbDL08WbDct4hsQFfLlL6S11q0MHMS8iUcPMducpcSNYTm8bpmlW9Or5c7XxlZb/7HYcJpa8oUMudcVQxzahEGUIu1tCE1RlK+T6bk9VtqLu5UDo=",
+        "tr": "U2FsdGVkX18ugYlTkaWBqRyjEG8BW0EJx069ihoeVnjW/MG2EEEaTNH1XX0d9j0wR3ROG3UiJR9tPTVuk2Xj29m0FN9EwvtEvxN6/u8Lx5Pckmng/QNISZhNzcszQqhMeH/MRr9sr41nQbF4jzEzT3OaHATAIT4x5W5aDbqGje33lAPvpL/29ZZlTZEIGoPR"
+      },
+      "hiddenTiles": [
+        6,
+        7,
+        8
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "018",
+      "image": "018",
+      "answer": {
+        "en": "U2FsdGVkX1+ndDAw8rtPiLn6lIsOaZy48cnY/4OChHI=",
+        "tr": "U2FsdGVkX19kumZi1R7Ehn59KfowMEl9IKHfx/KuQNY="
+      },
+      "description": {
+        "en": "U2FsdGVkX18/wbccA9Ul0vLnx6EK7XsY5s1H5sRwHRB0KPsTNvW9Fal54B5hqLBOCi6aILDCL3RNLS8GfzQ+prwoZRa+AYd6ip4RhrzFHMpfy1kLw2DyJo4UhtfsOTNaco/NtoQ/5NIcXl17LrWh/xIGlXQGGDgAXzi5LLobX20Zu0gB2V0KumCzN1yLtKk/",
+        "tr": "U2FsdGVkX1+VZjdSwhp4qUGvDnPCQSN/lXmTydm5Vyr2eIjjqC7CyUKlW3vUCOGk00ZD2HBb11AZhE+b0FWfjNOjWE7sDwqs0cew3slm8DSqKXlensKkpTk7zn3xbS7Co18wZ74yDhwB/yYl4RLIMBnsMCfVgBNGBXtffPoCIlk="
+      },
+      "hiddenTiles": [
+        1,
+        5,
+        6
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "019",
+      "image": "019",
+      "answer": {
+        "en": "U2FsdGVkX18m9ezjUJx/aMVDuU1GCcVTWwI/FP+BQSA=",
+        "tr": "U2FsdGVkX19Q9RxNMStsYkua5nqSyFJhNpD4F0o65y4="
+      },
+      "description": {
+        "en": "U2FsdGVkX1+bkOX0DtbRSFf5/BX5jNX/fFGll/wop/2SpkIE0blWA0BCkwIZPPPfTrN2SqD0tEgbG9xYa3lK222fIpBVTBbtePDdkHhTqzvH55dTdLQ/qRh+NPZMwdgqfG75sAgSiTIBSC5jrWm6fxHVS8O/2d1h5SHTxjaTpGMh8f8zPKcK1jkXPTIJIFac6LkTWlwTB2/o8ddEnbvKWw==",
+        "tr": "U2FsdGVkX19Y0Yub0rKJCeshYoILmuOuzlFcOZEPSb09IU/bxvUiW6IFzTuJ4WJ3d7msqX1PESpEYMVwQjVWFgjgJyzcbK6+Z8xlagP6DzKVMu37MgzNutMdnlNSKe/zswv7k61rVfQmZ+1K8+iZ77TuW8bT8E6Hi2lrrx5OVI1UYOuhLMBS7TcJc253ha/xFpWTljdorqc3c02s7ordVtlIlkb5/JXMcIrpvGTrQuKXMf//C7sS7djilf8JuplI"
+      },
+      "hiddenTiles": [
+        1,
+        4,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "020",
+      "image": "020",
+      "answer": {
+        "en": "U2FsdGVkX1+cRn4sIRGA36cEtXA+lYpho5K7SymkBR0=",
+        "tr": "U2FsdGVkX18Ue+1SGpDYX3T7N+qvPKrk7WpRpPh+gZM="
+      },
+      "description": {
+        "en": "U2FsdGVkX19WQpSx2HmVKfMAubCgIeWeGIXvM9HDAJlHxwlsXLZ3xf2/NNRqwKbAmOap2KFqQwifpbBfdP7o4Kvo4LLl9qexU9/98P/3nV5Lc/AF7AKEDCnY6/9RUl/Rh9ew+t8C2oaz+v5Cew6/gqCfwvUuaURGxpaaYaIEuVE=",
+        "tr": "U2FsdGVkX19ICMGMeryf1dG8o8wtGWF4N4To/2SuhZtFDOp8Q3B7o7oUdVwXDPukgoeLYBGTmN7luYe740kF4hznBy9eKRrKqYFU0a5ztE+wdcz0PQbtNsXO3FSl3KJLLtPsuOAF/cnbspF3W9ifypxNSzlIa/Uum3dOlQF1XKbN4okY2NrNOL+lVJviP6Qx"
+      },
+      "hiddenTiles": [
+        0,
+        3,
+        4
       ],
       "column": 3,
       "row": 3
