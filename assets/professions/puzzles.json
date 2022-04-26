@@ -1,0 +1,23 @@
+[
+  {
+    "puzzle": {
+      "key": "001",
+      "image": "001",
+      "answer": {
+        "en": "U2FsdGVkX1/VJ83tv8ynHi7eTu/V0qJwQvUDiuQcww4=",
+        "tr": "U2FsdGVkX180Xii9dK5f/lSNiiYGf9k2Lv3mkvTblRM="
+      },
+      "description": {
+        "en": "U2FsdGVkX1+o6DfQ6y38bhUKzAyC46DU9iuiLtLA0XHdNVaYYc2Fny/YSud+NXAiCZhPPxvKM7tVktk5HReXaajhIQ7d5EGBvjBpXv1VmnAKqWwEVP2onFY+wx986q+2lRXg4Ct3KNAbDciuAGmQtdM7r4GApD+18fssPvZ5nWA=",
+        "tr": "U2FsdGVkX18yqRbirORy6l8NtNunuhvu6CVvUbVoTlEV4y6NMXguam7J2qufkDBy2AfMwrPLWZ44I++GAB4SMPfNjhsK916Jxj6ZJyIQEN4ZZ1dyDlUVNBskgOv/FAiW6nvhZuM9k+nEaRg+kl5UVpKJ9Q4G9fYmctSbiG1RP58Tscj4nNKH4y5bkLw5MxH3"
+      },
+      "hiddenTiles": [
+        0,
+        3,
+        7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  }
+]
