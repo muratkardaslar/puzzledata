@@ -4,17 +4,38 @@
       "key": "001",
       "image": "001",
       "answer": {
-        "en": "U2FsdGVkX1/VJ83tv8ynHi7eTu/V0qJwQvUDiuQcww4=",
-        "tr": "U2FsdGVkX180Xii9dK5f/lSNiiYGf9k2Lv3mkvTblRM="
+        "en": "U2FsdGVkX1/oklP3MIqRmVCgcgFWnlVJm+QPPxlklVo=",
+        "tr": "U2FsdGVkX18T+xeX7DnlntICvbMRo6Awfok3DJno00k="
       },
       "description": {
-        "en": "U2FsdGVkX1+o6DfQ6y38bhUKzAyC46DU9iuiLtLA0XHdNVaYYc2Fny/YSud+NXAiCZhPPxvKM7tVktk5HReXaajhIQ7d5EGBvjBpXv1VmnAKqWwEVP2onFY+wx986q+2lRXg4Ct3KNAbDciuAGmQtdM7r4GApD+18fssPvZ5nWA=",
-        "tr": "U2FsdGVkX18yqRbirORy6l8NtNunuhvu6CVvUbVoTlEV4y6NMXguam7J2qufkDBy2AfMwrPLWZ44I++GAB4SMPfNjhsK916Jxj6ZJyIQEN4ZZ1dyDlUVNBskgOv/FAiW6nvhZuM9k+nEaRg+kl5UVpKJ9Q4G9fYmctSbiG1RP58Tscj4nNKH4y5bkLw5MxH3"
+        "en": "U2FsdGVkX1/G4Q5ycfGCttOvbZ8i++2nNGVXKIQrTaWfB8L8x/xQUXRF/2xzk1E/lhkp96Li8dmEjNs2OyHXHDM4cduv0JhCbzXEz1nHEeRVspYJmH/qWPE+A8CNA/AbSkOtaJessssZTknLgtjw/1w5QNKTZBR5a+Gxc+QNCdo=",
+        "tr": "U2FsdGVkX1/nPwygFxHRAzpSUX6aG6hTQdMncSIBfIz/n5iEyGQzCHZDZsgnIcLWmIYQ9NkzotwIJB9NwshqV2aEW+46dyT5HoqgMy7s/1ZVXzvDtpOB+xauLx2mi7Oa3W8d5No0DuSmQKLrZCdu5eeyoA0lItj3o1GKv1LbtByKpyqC03G1JevJAol9akK/"
       },
       "hiddenTiles": [
         0,
         3,
         7
+      ],
+      "column": 3,
+      "row": 3
+    }
+  },
+  {
+    "puzzle": {
+      "key": "002",
+      "image": "002",
+      "answer": {
+        "en": "U2FsdGVkX1/L6Xx3FW1vk6fDemr2gKLrVqyrcluL+/0=",
+        "tr": "U2FsdGVkX1+51szOVQB784RVHdbznHYH/8mw+xD+qYU="
+      },
+      "description": {
+        "en": "U2FsdGVkX1/USeBxjonMH6fhi22QlZO7OF7L2PLwjPc1s2pYbObvrJzHCA1du2NQz36z4Jy4H0Nj9avC0bvyF/6eZl4Dvcy7XK2y8IKTxKZTsJBP8Ah3frmFoYYHC2wdlfizDzQvHZrW1F2HNcp21v+tpG3xKhWPHH5Y914F0+AntcJc1zwh/ud4NqseQjN9Afr3JPPm9dEgiXg/bPCkkA==",
+        "tr": "U2FsdGVkX1+xWkXXOh0OCxKTdY6/xetkzmrliCTqac0l3OcuUM0rC90WkvJYFR8t+0kqvZZM44Bu/H7SGlb6AJlGcHGswmgL8nKF1PvqCMCXcC9MKX4rSebWdaGcNNt5Hym3nRy+MjvlJtzh8JWz/8ojFBSSyYMhDcvURzosyIo9StwGj7pNEAfsW0DvfjLzWSZI21Ui8+QXiwlWP4WiWjkVj1+OW5HeZVY8kaJpNg3Vl2WUf/WvLZQ+1tQhvrSdQJ9OwAGoAU1ExPu1nWK6sQ=="
+      },
+      "hiddenTiles": [
+        0,
+        2,
+        3
       ],
       "column": 3,
       "row": 3

@@ -5,8 +5,8 @@
       "image": "animals",
       "count": 100,
       "desc": {
-        "en": "U2FsdGVkX18dKxzlDPajHClbw+Sl9xxZJ35PRVHPG2g=",
-        "tr": "U2FsdGVkX19n8/jsx/LvWVr+7QEjHV255cfeHOBPi8s="
+        "en": "U2FsdGVkX18eMGFMJ5dSKSN4345Yih0J5VFUN7Mb198=",
+        "tr": "U2FsdGVkX19JS7DhMAN0vb4B2I5bjRuHxfhOFwvyyrY="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -22,8 +22,8 @@
       "image": "musicalinstruments",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX19vcvWetWiEO0WpBFaFpxU4zEHuSR9isEs1KHqt4OkVsHEp5slijOOP",
-        "tr": "U2FsdGVkX18p0NXnosrkfKC+wwuk3l7s5p6Ol9fc3E4c1LGVu2ywemj4ARcFxo6a"
+        "en": "U2FsdGVkX1/gcJUy4Uz0YuR0eXLBKvVqEO1DSbQN3MVfU3ginANnlt5ubmro+wpo",
+        "tr": "U2FsdGVkX19kkFLLIOv3Sk1BbPjmnWdy306HbeF9Yq5awFVHwgGaYLYgch7t/L1J"
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -39,8 +39,8 @@
       "image": "sports",
       "count": 50,
       "desc": {
-        "en": "U2FsdGVkX19GppWbcuI7LSO1BWuurJwJHlub5ZgH8FI=",
-        "tr": "U2FsdGVkX192bUiEaAZg2UUZqgqmw8jNjPqkdcdeTU8="
+        "en": "U2FsdGVkX19nw7RHKz1W2PUbHK9mc0d5c9JGJw+Sb+E=",
+        "tr": "U2FsdGVkX1/fR1EnYKMJKanmBrLSkS5gHzHfVK5J+oo="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -56,8 +56,8 @@
       "image": "vehicles",
       "count": 40,
       "desc": {
-        "en": "U2FsdGVkX19judr7t4lReLmi6Cbt3GIF28FywJgG4bY=",
-        "tr": "U2FsdGVkX19ZgLUbK5kji5TJ4AWbH0os1VV3nPoX7jg="
+        "en": "U2FsdGVkX1/KlH7qlGNafLbsIOVglKUpm8ihU2MoxP8=",
+        "tr": "U2FsdGVkX1/Lk1Mqi4WLqI8T1FRjF3ARKVketqCxooo="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
@@ -71,10 +71,10 @@
     "category": {
       "name": "professions",
       "image": "professions",
-      "count": 1,
+      "count": 2,
       "desc": {
-        "en": "U2FsdGVkX19kRQosdL7udv6RkaJUEfT0Ivd0u9KWxAs=",
-        "tr": "U2FsdGVkX19wIfrBKgxmXTMdsvpWP4K9xJ9t0W4ettg="
+        "en": "U2FsdGVkX18zrBbnM2rVFtte4d0sz6CldrD+Vew+nOs=",
+        "tr": "U2FsdGVkX19RdwSjKJX4lWWwDoFaGL0vAhz+Ir2J1SU="
       },
       "alphabet": {
         "en": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
